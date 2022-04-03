@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab35-LabExercise</string>
+    <string name="txt_top_left">top left</string>
+    <string name="txt_below">below</string>
+    <string name="txt_btn">top right</string>
+    <string name="txt_below_relative">text below relative layout</string>
+    <string name="btn_click_me">Click Me</string>
+    <string name="clear_btn"></string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+</resources>
